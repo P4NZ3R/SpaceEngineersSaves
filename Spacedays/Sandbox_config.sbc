@@ -99,7 +99,7 @@
     <EnableResearch>true</EnableResearch>
     <EnableGoodBotHints>true</EnableGoodBotHints>
     <OptimalSpawnDistance>3500</OptimalSpawnDistance>
-    <EnableAutorespawn>true</EnableAutorespawn>
+    <EnableAutorespawn>false</EnableAutorespawn>
     <EnableBountyContracts>true</EnableBountyContracts>
     <EnableSupergridding>false</EnableSupergridding>
     <EnableEconomy>true</EnableEconomy>
@@ -124,5 +124,5 @@
   </Settings>
   <Mods />
   <SessionName>Spacedays</SessionName>
-  <LastSaveTime>2021-04-17T02:04:15.4884651+02:00</LastSaveTime>
+  <LastSaveTime>2021-04-17T20:09:45.711515+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
