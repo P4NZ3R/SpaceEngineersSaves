@@ -121,8 +121,20 @@
     <MaxPlanets>99</MaxPlanets>
     <OffensiveWordsFiltering>false</OffensiveWordsFiltering>
     <AdjustableMaxVehicleSpeed>true</AdjustableMaxVehicleSpeed>
+    <EnableMatchComponent>false</EnableMatchComponent>
+    <PreMatchDuration>0</PreMatchDuration>
+    <MatchDuration>0</MatchDuration>
+    <PostMatchDuration>0</PostMatchDuration>
+    <EnableFriendlyFire>true</EnableFriendlyFire>
+    <EnableTeamBalancing>false</EnableTeamBalancing>
+    <CharacterSpeedMultiplier>1</CharacterSpeedMultiplier>
+    <EnableRecoil>true</EnableRecoil>
+    <EnvironmentDamageMultiplier>1</EnvironmentDamageMultiplier>
+    <EnableGamepadAimAssist>false</EnableGamepadAimAssist>
+    <BackpackDespawnTimer>5</BackpackDespawnTimer>
+    <EnableFactionPlayerNames>false</EnableFactionPlayerNames>
   </Settings>
   <Mods />
   <SessionName>Spacedays</SessionName>
-  <LastSaveTime>2021-04-21T00:46:23.0208174+02:00</LastSaveTime>
+  <LastSaveTime>2021-04-23T00:33:51.2150099+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
