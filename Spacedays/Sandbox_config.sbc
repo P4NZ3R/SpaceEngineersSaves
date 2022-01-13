@@ -91,7 +91,7 @@
     <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
-    <PlayerCharacterRemovalThreshold>0</PlayerCharacterRemovalThreshold>
+    <PlayerCharacterRemovalThreshold>10</PlayerCharacterRemovalThreshold>
     <VoxelTrashRemovalEnabled>false</VoxelTrashRemovalEnabled>
     <VoxelPlayerDistanceThreshold>5000</VoxelPlayerDistanceThreshold>
     <VoxelGridDistanceThreshold>5000</VoxelGridDistanceThreshold>
@@ -136,5 +136,5 @@
   </Settings>
   <Mods />
   <SessionName>Spacedays</SessionName>
-  <LastSaveTime>2022-01-13T18:23:34.0142438+01:00</LastSaveTime>
+  <LastSaveTime>2022-01-14T00:36:30.7914294+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
