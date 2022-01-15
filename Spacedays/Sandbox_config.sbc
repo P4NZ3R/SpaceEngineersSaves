@@ -87,8 +87,8 @@
     <StopGridsPeriodMin>15</StopGridsPeriodMin>
     <TrashFlagsValue>7706</TrashFlagsValue>
     <AFKTimeountMin>0</AFKTimeountMin>
-    <BlockCountThreshold>20</BlockCountThreshold>
-    <PlayerDistanceThreshold>500</PlayerDistanceThreshold>
+    <BlockCountThreshold>50</BlockCountThreshold>
+    <PlayerDistanceThreshold>5000</PlayerDistanceThreshold>
     <OptimalGridCount>0</OptimalGridCount>
     <PlayerInactivityThreshold>0</PlayerInactivityThreshold>
     <PlayerCharacterRemovalThreshold>10</PlayerCharacterRemovalThreshold>
@@ -136,5 +136,5 @@
   </Settings>
   <Mods />
   <SessionName>Spacedays</SessionName>
-  <LastSaveTime>2022-01-14T00:36:30.7914294+01:00</LastSaveTime>
+  <LastSaveTime>2022-01-16T00:54:01.8994193+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
