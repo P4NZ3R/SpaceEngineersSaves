@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>3</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>3</RefinerySpeedMultiplier>
     <OnlineMode>FRIENDS</OnlineMode>
-    <MaxPlayers>16</MaxPlayers>
+    <MaxPlayers>4</MaxPlayers>
     <MaxFloatingObjects>100</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>5</MaxBackupSaves>
@@ -157,5 +157,5 @@
   </Settings>
   <Mods />
   <SessionName>Sbergh Mengineers - Laso's Legacy</SessionName>
-  <LastSaveTime>2024-08-05T00:01:28.5371169+02:00</LastSaveTime>
+  <LastSaveTime>2024-08-06T00:13:22.3201743+02:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
